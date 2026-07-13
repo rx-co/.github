@@ -5,9 +5,9 @@
 ## Change Management & Risk Assessment (SOC 2)
 ### 1. Risk Level Classification
 Check the box that best applies to this deployment:
-[ ] High Risk: Involves database schema changes, core authentication/security updates, or impacts critical customer data processing.
-[ ] Medium Risk: Involves API contract updates, changing third-party integrations, or major UI overhauls.
-[ ] Low Risk: Minor bug fixes, documentation updates, or CSS/styling tweaks.
+- [ ] High Risk: Involves database schema changes, core authentication/security updates, or impacts critical customer data processing.
+- [ ] Medium Risk: Involves API contract updates, changing third-party integrations, or major UI overhauls.
+- [ ] Low Risk: Minor bug fixes, documentation updates, or CSS/styling tweaks.
 ### 2. Business & Security Impact Analysis
 Describe the potential downstream effects if this deployment fails or introduces a bug.
 ### 3. Explicit Rollback & Contingency Plan
