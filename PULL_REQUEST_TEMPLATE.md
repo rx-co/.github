@@ -24,4 +24,3 @@ Prove that this code is safe to deploy. Paste logs, screenshots, or links to tes
 ---
 ## Peer Review Sign-Off
 By approving this PR, the reviewer confirms they have evaluated both the code quality and the adequacy of the rollback plan listed above.
-- Name of Approver:
