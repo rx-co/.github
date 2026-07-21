@@ -1,5 +1,5 @@
 ## Change Overview
-- Provide a concise description of the changes introduced by this PR and why they are necessary.
+- Description of the changes introduced by this PR.
 - Release-Date: YYYY-MM-DD
 - Jira Ticket Link: REL-XXXX (or linked Sprint Task)
 
